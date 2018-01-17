@@ -1,0 +1,595 @@
+h1 {
+	text-align: center;
+}
+
+#container {
+	background-color: grey;
+	position: absolute;
+	left: 500px;
+	top: 250px;
+	width: 400px;
+	height: 400px;
+}
+
+#c1 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 90px;
+	height: 90px;
+}
+
+#c2 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 105px;
+	top: 5px;
+	width: 90px;
+	height: 90px;
+}
+
+#c3 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 205px;
+	top: 5px;
+	width: 90px;
+	height: 90px;
+}
+
+#c4 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 305px;
+	top: 5px;
+	width: 90px;
+	height: 90px;
+}
+
+#c5 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 5px;
+	top: 105px;
+	width: 90px;
+	height: 90px;
+}
+
+#c6 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 105px;
+	top: 105px;
+	width: 90px;
+	height: 90px;
+}
+
+#c7 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 205px;
+	top: 105px;
+	width: 90px;
+	height: 90px;
+}
+
+#c8 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 305px;
+	top: 105px;
+	width: 90px;
+	height: 90px;
+}
+
+#c9 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 5px;
+	top: 205px;
+	width: 90px;
+	height: 90px;
+}
+
+#c10 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 105px;
+	top: 205px;
+	width: 90px;
+	height: 90px;
+}
+
+#c11 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 205px;
+	top: 205px;
+	width: 90px;
+	height: 90px;
+}
+
+#c12 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 305px;
+	top: 205px;
+	width: 90px;
+	height: 90px;
+}
+
+#c13 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 5px;
+	top: 305px;
+	width: 90px;
+	height: 90px;
+}
+
+#c14 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 105px;
+	top: 305px;
+	width: 90px;
+	height: 90px;
+}
+
+#c15 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 205px;
+	top: 305px;
+	width: 90px;
+	height: 90px;
+}
+
+#c16 {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: lightsteelblue;
+	position: absolute;
+	left: 305px;
+	top: 305px;
+	width: 90px;
+	height: 90px;
+}
+
+#legend {
+	background-color: grey;
+	position: absolute;
+	left: 230px;
+	top: 100px;
+	width: 200px;
+	height: 1100px;
+}
+
+#l1a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme2.gif");
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+}
+
+#l1b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+}
+
+#l2a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme4.gif");
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+}
+
+#l2b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	width: 100px;
+	height: 100px;
+}
+
+#l3a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme8.jpg");
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+}
+
+#l3b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 200px;
+	width: 100px;
+	height: 100px;
+}
+
+#l4a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme16.jpg");
+	position: absolute;
+	left: 0px;
+	top: 300px;
+	width: 100px;
+	height: 100px;
+}
+
+#l4b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 300px;
+	width: 100px;
+	height: 100px;
+}
+
+#l5a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme32.gif");
+	position: absolute;
+	left: 0px;
+	top: 400px;
+	width: 100px;
+	height: 100px;
+}
+
+#l5b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 400px;
+	width: 100px;
+	height: 100px;
+}
+
+#l6a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme64.jpg");
+	position: absolute;
+	left: 0px;
+	top: 500px;
+	width: 100px;
+	height: 100px;
+}
+
+#l6b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 500px;
+	width: 100px;
+	height: 100px;
+}
+
+#l7a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme128.jpg");
+	position: absolute;
+	left: 0px;
+	top: 600px;
+	width: 100px;
+	height: 100px;
+}
+
+#l7b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 600px;
+	width: 100px;
+	height: 100px;
+}
+
+#l8a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme256.jpg");
+	position: absolute;
+	left: 0px;
+	top: 700px;
+	width: 100px;
+	height: 100px;
+}
+
+#l8b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 700px;
+	width: 100px;
+	height: 100px;
+}
+
+#l9a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme512.png");
+	position: absolute;
+	left: 0px;
+	top: 800px;
+	width: 100px;
+	height: 100px;
+}
+
+#l9b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 800px;
+	width: 100px;
+	height: 100px;
+}
+
+#l10a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme1024.jpg");
+	position: absolute;
+	left: 0px;
+	top: 900px;
+	width: 100px;
+	height: 100px;
+}
+
+#l10b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 900px;
+	width: 100px;
+	height: 100px;
+}
+
+#l11a {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("Memes/meme2048.jpeg");
+	position: absolute;
+	left: 0px;
+	top: 1000px;
+	width: 100px;
+	height: 100px;
+}
+
+#l11b {
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 100px;
+	top: 1000px;
+	width: 100px;
+	height: 100px;
+}
+
+div > p {
+	font-size: 1.875em;
+}
+
+#score {
+	background-color: royalblue;
+	position: absolute;
+	left: 500px;
+	top: 100px;
+	width: 400px;
+	height: 100px;
+}
+
+#current {
+	position: absolute;
+	left: 25px;
+	width:200px;
+}
+
+#high {
+	position: absolute;
+	left: 175px;
+	width:200px;
+}
+
+body {
+	background-color: #72C08F;
+}
+
+.scoretext {
+	font-size: 1.5em;
+}
+
+#cs {
+	font-size: 1.5em;
+}
+
+#hs {
+	font-size: 1.5em;
+}
+
+.inner {
+	position: absolute;
+	left: 15px;
+	top: 5px;
+	width: 100px;
+}
+
+#buttons {
+	position: relative;
+	width: 260px;
+	left: 20px;
+}
+
+#back {
+	position: absolute;
+	right: 0;
+}
+
+#themeChange {
+	position: absolute;
+	left: 20px;
+	top: 100px;
+}
+
+#dropdownContent > button {
+	position: relative;
+	border:1px solid #ffffff;
+	cursor:pointer;
+	display:block;
+	min-width: 200px;
+	min-height: 40px;
+	max-width: 200px;
+	max-height: 40px;
+}
+
+#dropdownContent {
+	display: none;
+}
+
+img {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	height: 40px;
+}
+
+.custom {
+	position: absolute;
+	top: 65px;
+	left: -10px;
+}
+
+label, button {
+  background-color: #7F9CCB;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px ridge black;
+  font-size: 0.8rem;
+  height: auto;
+}
+
+label:hover, button:hover {
+  background-color: #2D5BA3;
+  color: white;
+}
+
+label:active, button:active {
+  background-color: #0D3F8F;
+  color: white;
+}
+
+#GameOverCover {
+    background-color: #6666FF;
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    width: 400px;
+    height: 400px;
+    z-index: 2;
+}
+
+#GameOverCover > label {
+    position: absolute;
+    left: 140px;
+    top: 180px;
+}

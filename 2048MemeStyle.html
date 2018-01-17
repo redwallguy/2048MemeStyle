@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="2048MemeStyle.css">
+</head>
+<body>
+
+<h1>2048 Meme Style</h1>
+
+<div id="score">
+	<div id="current">
+		<p class="scoretext">Score:</p>
+		<p id="cs"></p>
+	</div>
+	<div id="high">
+		<p class="scoretext">High Score:</p>
+		<p id="hs"></p>
+	</div>
+	<div id="buttons">
+		<button type="button" id="reset">Reset game</button>
+		<button type="button" id="back">Back one move</button>
+	</div>
+</div>
+
+<div id="GameOverCover">
+        <label>Game Over...Try Again?</label>
+</div>
+
+<div id="container">
+	<div id="c1" class="nada"></div>
+	<div id="c2" class="nada"></div>
+	<div id="c3" class="nada"></div>
+	<div id="c4" class="nada"></div>
+	<div id="c5" class="nada"></div>
+	<div id="c6" class="nada"></div>
+	<div id="c7" class="nada"></div>
+	<div id="c8" class="nada"></div>
+	<div id="c9" class="nada"></div>
+	<div id="c10" class="nada"></div>
+	<div id="c11" class="nada"></div>
+	<div id="c12" class="nada"></div>
+	<div id="c13" class="nada"></div>
+	<div id="c14" class="nada"></div>
+	<div id="c15" class="nada"></div>
+	<div id="c16" class="nada"></div>
+</div>
+
+<div id="legend">
+	<div id="l1a"></div>
+	<div id="l2a"></div>
+	<div id="l3a"></div>
+	<div id="l4a"></div>
+	<div id="l5a"></div>
+	<div id="l6a"></div>
+	<div id="l7a"></div>
+	<div id="l8a"></div>
+	<div id="l9a"></div>
+	<div id="l10a"></div>
+	<div id="l11a"></div>
+	<div id="l1b">
+		<div class="inner">
+			<p>= 2</p>
+			<div class="custom">
+				<label for="customUpload1">Choose Meme</label>
+				<input type="file" id="customUpload1" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l2b">
+		<div class="inner">
+			<p>= 4</p>
+			<div class="custom">
+				<label for="customUpload2">Choose Meme</label>
+				<input type="file" id="customUpload2" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l3b">
+		<div class="inner">
+			<p>= 8</p>
+			<div class="custom">
+				<label for="customUpload3">Choose Meme</label>
+				<input type="file" id="customUpload3" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l4b">
+		<div class="inner">
+			<p>= 16</p>
+			<div class="custom">
+				<label for="customUpload4">Choose Meme</label>
+				<input type="file" id="customUpload4" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l5b">
+		<div class="inner">
+			<p>= 32</p>
+			<div class="custom">
+				<label for="customUpload5">Choose Meme</label>
+				<input type="file" id="customUpload5" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l6b">
+		<div class="inner">
+			<p>= 64</p>
+			<div class="custom">
+				<label for="customUpload6">Choose Meme</label>
+				<input type="file" id="customUpload6" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l7b">
+		<div class="inner">
+			<p>= 128</p>
+			<div class="custom">
+				<label for="customUpload7">Choose Meme</label>
+				<input type="file" id="customUpload7" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l8b">
+		<div class="inner">
+			<p>= 256</p>
+			<div class="custom">
+				<label for="customUpload8">Choose Meme</label>
+				<input type="file" id="customUpload8" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l9b">
+		<div class="inner">
+			<p>= 512</p>
+			<div class="custom">
+				<label for="customUpload9">Choose Meme</label>
+				<input type="file" id="customUpload9" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l10b">
+		<div class="inner">
+			<p>= 1024</p>
+			<div class="custom">
+				<label for="customUpload10">Choose Meme</label>
+				<input type="file" id="customUpload10" name="im_up">
+			</div>
+		</div>
+	</div>
+	<div id="l11b">
+		<div class="inner">
+			<p>= 2048</p>
+			<div class="custom">
+				<label for="customUpload11">Choose Meme</label>
+				<input type="file" id="customUpload11" name="im_up">
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="themeChange">
+	<button type="button" id="themeBtn">Change theme</button>
+	<div id="dropdownContent">
+		<button type="button" id="Memes"><img src="Memes/banner.jpg"></button>
+		<button type="button" id="GF"><img src="GravityFalls/banner.jpg"></button>
+		<button type="button" id="LoL"><img src="LoL/banner.png"></button>
+		<button type="button" id="OW"><img src="OW/banner.jpg"></button>
+		<button type="button" id="RWBY"><img src="RWBY/banner.jpg"></button>
+		<button type="button" id="Ships"><img src="Ships/banner.jpg"></button>
+		<button type="button" id="StarWars"><img src="StarWars/banner.jpg"></button>
+		<button type="button" id="Custom"><img src="bannercustom.jpg"></button>
+		<button type="button" id="Random"><img src="bannerrandom.jpg"></button>
+	</div>
+</div>
+
+</body>
+<script src="jquery-1.12.2.min.js">
+</script>
+<script src="altered2048.js">
+</script>
+</html>
